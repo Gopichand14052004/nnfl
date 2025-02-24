@@ -1,11 +1,3 @@
-# --------
-#
-# Construction of an ANN from scratch
-# Jason Dean
-# April 29th, 2017
-# jasontdean.com
-#
-# --------
 
 import numpy as np
 from sklearn.datasets import make_classification
